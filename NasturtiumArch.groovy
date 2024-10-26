@@ -1,4 +1,4 @@
 
-def par = Parabola.extrudeByEquation(5,0.27,0,1)
+def par = Parabola.extrudeByEquation(47,1/(3.5),0,1)
 
 return par
